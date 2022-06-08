@@ -1,5 +1,5 @@
 # Garden-irrigation-system
-AI system to detect pedestrians using cell phones.
+Automatic Garden System Controller.
 
 # Purpose of the project
 
