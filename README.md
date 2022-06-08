@@ -24,7 +24,7 @@ In the future I plan to add modules to control devices connected to the UART, SP
 
 
 # How to run this project
-To run this project you should use cube IDE, select stm32f103c8t6 uC, compile it using built in compiler and upload it to the board using the ST-LINK/V2 programmer.
+To run this project you should use the cube IDE, select the stm32f103c8t6 uC, compile it using the built-in compiler and upload it to the board using the ST-LINK/V2 programmer.
 
 You can also compile it using CMakefile...
 
